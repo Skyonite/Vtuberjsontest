@@ -2,7 +2,7 @@
   "vtuberlist": [
     {
       "type": "Company",
-      "name": "Nijisanji"
+      "nameRomaji": "Nijisanji"
     },
     {
       "type": "youtuber",
