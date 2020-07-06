@@ -1,0 +1,29 @@
+{
+  "vtuberlist": [
+    {
+      "type": "Company",
+      "nameRomaji": "Nijisanji"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Suzuhara Lulu",
+      "nameKana": "すずはらるる",
+      "nameKanji": "鈴原るる",
+      "twitterLink": "https://twitter.com/lulu_suzuhara",
+      "youtubeLink": "https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/lulu.png"
+    },
+    {
+      "nameRomaji": "Inui Toko",
+      "nameKana": "いぬいとこ",
+      "nameKanji": "戌亥とこ",
+      "twitterLink": "https://twitter.com/inui_toko",
+      "youtubeLink": "https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/inui.png"
+    }
+  ]
+}
