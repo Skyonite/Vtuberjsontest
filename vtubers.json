@@ -58,6 +58,47 @@
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
       "avatarPath": "images/nagi.png"
+    },
+    {
+      "type": "Company",
+      "nameRomaji": "Hololive"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Usada Pekora",
+      "nameKana": "うさだぺこら",
+      "nameKanji": "兎田ぺこら",
+      "twitterLink": "https://twitter.com/usadapekora",
+      "youtubeLink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/pekora.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Hoshimachi Suisei",
+      "nameKana": "ほしまちすいせい",
+      "nameKanji": "星町すいせい",
+      "twitterLink": "https://twitter.com/suisei_hosimati",
+      "youtubeLink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/suisei.png"
+    },
+    {
+      "type": "Company",
+      "nameRomaji": "Independent"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Amashika Lumi",
+      "nameKana": "あましかるみ",
+      "nameKanji": "天然ルミ",
+      "twitterLink": "https://twitter.com/Lumi_Amashika",
+      "youtubeLink": "https://www.youtube.com/channel/UCg1vXTq8uvD9xTiTT3kvjdw",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/amashika.png"
     }
   ]
 }
