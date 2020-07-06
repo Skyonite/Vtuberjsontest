@@ -1,6 +1,11 @@
 {
   "vtuberlist": [
     {
+      "type": "Company",
+      "name": "Nijisanji"
+    },
+    {
+      "type": "youtuber",
       "nameRomaji": "Suzuhara Lulu",
       "nameKana": "すずはらるる",
       "nameKanji": "鈴原るる",
