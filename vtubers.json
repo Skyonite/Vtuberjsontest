@@ -25,6 +25,39 @@
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
       "avatarPath": "images/inui.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Furen E Lustario",
+      "nameKana": "フレン・E・ルスタリオ",
+      "nameKanji": " ",
+      "twitterLink": "https://twitter.com/furen_2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/furen.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Ritsuki Sakura",
+      "nameKana": "りつきさくら",
+      "nameKanji": "月桜凛",
+      "twitterLink": "https://twitter.com/SAKURA_RITSUKI",
+      "youtubeLink": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/ritsuki.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "So Nagi",
+      "nameKana": "",
+      "nameKanji": "나기소",
+      "twitterLink": "https://twitter.com/NagiSo2434",
+      "youtubeLink": "https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/nagi.png"
     }
   ]
 }
