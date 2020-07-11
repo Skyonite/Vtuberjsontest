@@ -11,8 +11,8 @@
       "nameKanji": "鈴原るる",
       "twitterLink": "https://twitter.com/lulu_suzuhara",
       "youtubeLink": "https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w",
-      "nextScheduledStream": "s31TI1zmpsY",
-      "nextScheduledStreamTime": "1594512000000",
+      "nextScheduledStream": "BnXRbccqniA",
+      "nextScheduledStreamTime": "1594512000",
       "avatarPath": "images/lulu.png"
     },
     {
@@ -23,7 +23,7 @@
       "twitterLink": "https://twitter.com/inui_toko",
       "youtubeLink": "https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg",
       "nextScheduledStream": "k3W2ZMnGs6k",
-      "nextScheduledStreamTime": "1594512000000",
+      "nextScheduledStreamTime": "fals1594512000e",
       "avatarPath": "images/inui.png"
     },
     {
@@ -45,8 +45,74 @@
       "twitterLink": "https://twitter.com/SAKURA_RITSUKI",
       "youtubeLink": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ",
       "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "1594514000000",
+      "nextScheduledStreamTime": "false",
       "avatarPath": "images/ritsuki.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Yuuki Chihiro",
+      "nameKana": "ゆうきちひろ",
+      "nameKanji": "勇気ちひろ",
+      "twitterLink": "https://mobile.twitter.com/Chihiro_yuki23",
+      "youtubeLink": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/chihiro.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Sasaki Saku",
+      "nameKana": "ささきさく",
+      "nameKanji": "笹木咲",
+      "twitterLink": "https://twitter.com/saku_sasaki",
+      "youtubeLink": "https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/sasaki.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Ratna Petit",
+      "nameKana": "ラトナ・プティ",
+      "nameKanji": "",
+      "twitterLink": "https://twitter.com/ratna_petit",
+      "youtubeLink": "https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/ratna.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Machida Chima",
+      "nameKana": "まちだちま",
+      "nameKanji": "町田ちま",
+      "twitterLink": "https://twitter.com/chima_machita23",
+      "youtubeLink": "https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/machida.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Elf no Eru",
+      "nameKana": "エルフのえる",
+      "nameKanji": "",
+      "twitterLink": "https://twitter.com/Elu_World",
+      "youtubeLink": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/eru.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kizuku Yashiro",
+      "nameKana": "きずくやしろ",
+      "nameKanji": "社築",
+      "twitterLink": "https://twitter.com/846kizuQ",
+      "youtubeLink": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/yashiro.png"
     },
     {
       "type": "youtuber",
@@ -86,6 +152,43 @@
       "avatarPath": "images/suisei.png"
     },
     {
+      "type": "youtuber",
+      "nameRomaji": "Minato Aqua",
+      "nameKana": "みなとあくあ",
+      "nameKanji": "湊あくあ",
+      "twitterLink": "https://twitter.com/minatoaqua",
+      "youtubeLink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/aqua.p"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Oogami Mio",
+      "nameKana": "おおがみみお",
+      "nameKanji": "大神ミオ",
+      "twitterLink": "https://twitter.com/ookamimio",
+      "youtubeLink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/mio.png"
+    },
+    {
+      "type": "Company",
+      "nameRomaji": "VOMS"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Amano Pikamee",
+      "nameKana": "あまのぴかみぃ",
+      "nameKanji": "天野ピカミィ",
+      "twitterLink": "https://twitter.com/amanopikamee",
+      "youtubeLink": "https://www.youtube.com/channel/UCajhBT4nMrg3DLS-bLL2RCg",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/mio.png"
+    },
+    {
       "type": "Company",
       "nameRomaji": "Independent"
     },
@@ -96,9 +199,20 @@
       "nameKanji": "天然ルミ",
       "twitterLink": "https://twitter.com/Lumi_Amashika",
       "youtubeLink": "https://www.youtube.com/channel/UCg1vXTq8uvD9xTiTT3kvjdw",
-      "nextScheduledStream": "HTT7bDE5F3Q",
+      "nextScheduledStream": false,
       "nextScheduledStreamTime": "false",
       "avatarPath": "images/amashika.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Hirasaka Mei",
+      "nameKana": "ひらさかめい",
+      "nameKanji": "比良坂芽衣",
+      "twitterLink": "https://twitter.com/hirasakamei",
+      "youtubeLink": "https://www.youtube.com/channel/UCckQQRZVF9x2GjroBjNIX_Q",
+      "nextScheduledStream": false,
+      "nextScheduledStreamTime": "false",
+      "avatarPath": "images/hirasaka.png"
     }
   ]
 }
