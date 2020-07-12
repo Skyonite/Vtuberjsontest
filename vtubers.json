@@ -13,6 +13,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w",
       "nextScheduledStream": "BnXRbccqniA",
       "nextScheduledStreamTime": "1594512000",
+      "pastBroadcasts": "TvNw5dU1npg;BnXRbccqniA;s31TI1zmpsY;tGSawQIta5M",
       "avatarPath": "images/lulu.png"
     },
     {
@@ -24,6 +25,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg",
       "nextScheduledStream": "k3W2ZMnGs6k",
       "nextScheduledStreamTime": "fals1594512000e",
+      "pastBroadcasts": "false",
       "avatarPath": "images/inui.png"
     },
     {
@@ -35,6 +37,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/furen.png"
     },
     {
@@ -46,6 +49,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/ritsuki.png"
     },
     {
@@ -57,6 +61,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/chihiro.png"
     },
     {
@@ -68,6 +73,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/sasaki.png"
     },
     {
@@ -79,6 +85,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/ratna.png"
     },
     {
@@ -90,6 +97,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/machida.png"
     },
     {
@@ -101,6 +109,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/eru.png"
     },
     {
@@ -112,6 +121,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/yashiro.png"
     },
     {
@@ -123,6 +133,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/nagi.png"
     },
     {
@@ -138,6 +149,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/pekora.png"
     },
     {
@@ -149,6 +161,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/suisei.png"
     },
     {
@@ -160,6 +173,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/aqua.png"
     },
     {
@@ -171,6 +185,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/mio.png"
     },
     {
@@ -186,6 +201,7 @@
       "youtubeLink": "https://www.youtube.com/channel/UCajhBT4nMrg3DLS-bLL2RCg",
       "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/pikamee.png"
     },
     {
@@ -199,8 +215,9 @@
       "nameKanji": "天然ルミ",
       "twitterLink": "https://twitter.com/Lumi_Amashika",
       "youtubeLink": "https://www.youtube.com/channel/UCg1vXTq8uvD9xTiTT3kvjdw",
-      "nextScheduledStream": false,
+      "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/amashika.png"
     },
     {
@@ -210,8 +227,9 @@
       "nameKanji": "比良坂芽衣",
       "twitterLink": "https://twitter.com/hirasakamei",
       "youtubeLink": "https://www.youtube.com/channel/UCckQQRZVF9x2GjroBjNIX_Q",
-      "nextScheduledStream": false,
+      "nextScheduledStream": "false",
       "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
       "avatarPath": "images/hirasaka.png"
     }
   ]
