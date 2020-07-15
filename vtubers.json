@@ -2,7 +2,7 @@
   "vtuberlist": [
     {
       "type": "Company",
-      "nameRomaji": "Nijisanji"
+      "nameRomaji": "Nijisanji | にじさんじ"
     },
     {
       "type": "youtuber",
@@ -215,6 +215,84 @@
     },
     {
       "type": "youtuber",
+      "nameRomaji": "Dola",
+      "nameKana": "ドーラ",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "twitterLink": "https://twitter.com/___Dola",
+      "youtubeLink": "https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
+      "avatarPath": "images/dola.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Cammie Luis",
+      "nameKana": "キャミー・ルイス",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "twitterLink": "https://twitter.com/Luis_Cammy",
+      "youtubeLink": "https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
+      "avatarPath": "images/luis.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Hoshikawa Sara",
+      "nameKana": "ほしかわさら",
+      "nameKanji": "星川サラ",
+      "nicknames": " ",
+      "twitterLink": "https://twitter.com/Sara_Hoshikawa",
+      "youtubeLink": "https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
+      "avatarPath": "images/hoshikawa.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Yorumi Rena",
+      "nameKana": "よるみれな",
+      "nameKanji": "夜見れな",
+      "nicknames": " ",
+      "twitterLink": "https://twitter.com/rena_yorumi",
+      "youtubeLink": "https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
+      "avatarPath": "images/yorumi.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kinrenka Melissa",
+      "nameKana": "キンレンカ・メリッサ",
+      "nameKanji": "夜見れカ",
+      "nicknames": " ",
+      "twitterLink": "https://twitter.com/melissa_2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
+      "avatarPath": "images/melissa.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Ex Albio",
+      "nameKana": "エクス・アルビオ",
+      "nameKanji": "　",
+      "nicknames": "Ebio",
+      "twitterLink": "https://twitter.com/Ex_Albio",
+      "youtubeLink": "https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
+      "avatarPath": "images/albio.png"
+    },
+    {
+      "type": "youtuber",
       "nameRomaji": "So Nagi",
       "nameKana": " ",
       "nameKanji": "나기소",
@@ -228,7 +306,7 @@
     },
     {
       "type": "Company",
-      "nameRomaji": "Hololive"
+      "nameRomaji": "Hololive | ホロライブ"
     },
     {
       "type": "youtuber",
@@ -348,6 +426,45 @@
       "avatarPath": "images/subaru.png"
     },
     {
+      "type": "youtuber",
+      "nameRomaji": "Uruha Rushia",
+      "nameKana": "うるはるしあ",
+      "nameKanji": "潤羽るしあ",
+      "nicknames": "pettanko ",
+      "twitterLink": "https://twitter.com/uruharushia",
+      "youtubeLink": "https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
+      "avatarPath": "images/rushia.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Sakura Miko",
+      "nameKana": "さくらみこ",
+      "nameKanji": "",
+      "nicknames": "elite nwordsayer",
+      "twitterLink": "https://twitter.com/sakuramiko35",
+      "youtubeLink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
+      "avatarPath": "images/miko.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Murasaki Shion",
+      "nameKana": "むらさきしおん",
+      "nameKanji": "紫咲シオン",
+      "nicknames": "",
+      "twitterLink": "https://twitter.com/murasakishionch",
+      "youtubeLink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
+      "avatarPath": "images/shion.png"
+    },
+    {
       "type": "Company",
       "nameRomaji": "VOMS"
     },
@@ -379,7 +496,24 @@
     },
     {
       "type": "Company",
-      "nameRomaji": "Weapon Girls"
+      "nameRomaji": "Hanayori Girls' Dorm | 花寄女子寮"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kano",
+      "nameKana": " ",
+      "nameKanji": "鹿乃",
+      "nicknames": " ",
+      "twitterLink": "https://twitter.com/kano_hanayori",
+      "youtubeLink": "https://www.youtube.com/channel/UCfuz6xYbYFGsWWBi3SpJI1w",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
+      "avatarPath": "images/kano.png"
+    },
+    {
+      "type": "Company",
+      "nameRomaji": "Weapon Girls | 武装少女"
     },
     {
       "type": "youtuber",
@@ -396,7 +530,7 @@
     },
     {
       "type": "Company",
-      "nameRomaji": "Independent"
+      "nameRomaji": "ReNOns"
     },
     {
       "type": "youtuber",
@@ -410,6 +544,10 @@
       "nextScheduledStreamTime": "false",
       "pastBroadcasts": "false",
       "avatarPath": "images/amashika.png"
+    },
+    {
+      "type": "Company",
+      "nameRomaji": "Independent | 無所属"
     },
     {
       "type": "youtuber",
