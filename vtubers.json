@@ -379,6 +379,23 @@
     },
     {
       "type": "Company",
+      "nameRomaji": "Weapon Girls"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kaminari Q-pi",
+      "nameKana": "かみなりきゅぴ",
+      "nameKanji": "神成きゅぴ",
+      "nicknames": " ",
+      "twitterLink": "https://twitter.com/xprprQchanx",
+      "youtubeLink": "https://www.youtube.com/channel/UCMp55EbT_ZlqiMS3lCj01BQ",
+      "nextScheduledStream": "false",
+      "nextScheduledStreamTime": "false",
+      "pastBroadcasts": "false",
+      "avatarPath": "images/qpi.png"
+    },
+    {
+      "type": "Company",
       "nameRomaji": "Independent"
     },
     {
