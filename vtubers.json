@@ -13,10 +13,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/lulu_suzuhara",
       "youtubeLink": "https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w",
-      "nextScheduledStream": "BnXRbccqniA",
-      "nextScheduledStreamTime": "1594512000000",
-      "pastBroadcasts": "TvNw5dU1npg;BnXRbccqniA;s31TI1zmpsY;tGSawQIta5M",
-      "pastBroadcastsTitles": "【#でびるる】おそろしい爆弾解体【爆弾解除マニュアル】;【スーパーマリオUSA】リベンジマッチ！！！【鈴原るる/にじさんじ】;【夜廻】第二夜！！！！【鈴原るる/にじさんじ】;【夜廻】ホラーゲームやってみるる！！！【鈴原るる/にじさんじ】",
+      "nextScheduledStream": [
+        "BnXRbccqniA",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        "1594512000000",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        "TvNw5dU1npg",
+        "BnXRbccqniA",
+        "s31TI1zmpsY",
+        "tGSawQIta5M"
+      ],
+      "pastBroadcastsTitles": [
+        "【#でびるる】おそろしい爆弾解体【爆弾解除マニュアル】",
+        "【スーパーマリオUSA】リベンジマッチ！！！【鈴原るる/にじさんじ】",
+        "【夜廻】第二夜！！！！【鈴原るる/にじさんじ】",
+        "【夜廻】ホラーゲームやってみるる！！！【鈴原るる/にじさんじ】"
+      ],
       "avatarPath": "images/lulu.png"
     },
     {
@@ -28,9 +54,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/inui_toko",
       "youtubeLink": "https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg",
-      "nextScheduledStream": "k3W2ZMnGs6k",
-      "nextScheduledStreamTime": "1594512000000",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "pastBroadcastsTitles": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "avatarPath": "images/inui.png"
     },
     {
@@ -42,9 +95,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/furen_2434",
       "youtubeLink": "https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/furen.png"
     },
     {
@@ -56,9 +136,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/SAKURA_RITSUKI",
       "youtubeLink": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/ritsuki.png"
     },
     {
@@ -70,9 +177,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://mobile.twitter.com/Chihiro_yuki23",
       "youtubeLink": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/chihiro.png"
     },
     {
@@ -84,9 +218,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/saku_sasaki",
       "youtubeLink": "https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/sasaki.png"
     },
     {
@@ -98,9 +259,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/ratna_petit",
       "youtubeLink": "https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/ratna.png"
     },
     {
@@ -112,9 +300,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/chima_machita23",
       "youtubeLink": "https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/machida.png"
     },
     {
@@ -126,9 +341,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/amamiya_kokoro",
       "youtubeLink": "https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/amamya.png"
     },
     {
@@ -140,9 +382,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/ShizuRin23",
       "youtubeLink": "https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/shizurin.png"
     },
     {
@@ -154,9 +423,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/yuzuki_roa",
       "youtubeLink": "https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/roa.png"
     },
     {
@@ -168,9 +464,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/Elu_World",
       "youtubeLink": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/eru.png"
     },
     {
@@ -182,9 +505,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/846kizuQ",
       "youtubeLink": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/yashiro.png"
     },
     {
@@ -196,9 +546,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/Lize_Helesta",
       "youtubeLink": "https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/lize.png"
     },
     {
@@ -210,9 +587,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/RindouMikoto",
       "youtubeLink": "youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/mikoto.png"
     },
     {
@@ -224,9 +628,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/ange_katrina_",
       "youtubeLink": "https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/ange.png"
     },
     {
@@ -238,9 +669,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/___Dola",
       "youtubeLink": "https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/dola.png"
     },
     {
@@ -252,9 +710,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/Luis_Cammy",
       "youtubeLink": "https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/luis.png"
     },
     {
@@ -266,9 +751,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/Sara_Hoshikawa",
       "youtubeLink": "https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/hoshikawa.png"
     },
     {
@@ -280,9 +792,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/rena_yorumi",
       "youtubeLink": "https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/yorumi.png"
     },
     {
@@ -294,9 +833,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/melissa_2434",
       "youtubeLink": "https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/melissa.png"
     },
     {
@@ -308,9 +874,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/Ex_Albio",
       "youtubeLink": "https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/albio.png"
     },
     {
@@ -322,9 +915,36 @@
       "company": "Nijisanji にじさんじ",
       "twitterLink": "https://twitter.com/NagiSo2434",
       "youtubeLink": "https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/nagi.png"
     },
     {
@@ -340,9 +960,36 @@
       "company": "Hololive　ホロライブ",
       "twitterLink": "https://twitter.com/usadapekora",
       "youtubeLink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/pekora.png"
     },
     {
@@ -354,9 +1001,36 @@
       "company": "Hololive　ホロライブ",
       "twitterLink": "https://twitter.com/suisei_hosimati",
       "youtubeLink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/suisei.png"
     },
     {
@@ -368,9 +1042,36 @@
       "company": "Hololive　ホロライブ",
       "twitterLink": "https://twitter.com/minatoaqua",
       "youtubeLink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/aqua.png"
     },
     {
@@ -382,9 +1083,36 @@
       "company": "Hololive　ホロライブ",
       "twitterLink": "https://twitter.com/ookamimio",
       "youtubeLink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/mio.png"
     },
     {
@@ -396,9 +1124,36 @@
       "company": "Hololive　ホロライブ",
       "twitterLink": "https://twitter.com/inugamikorone",
       "youtubeLink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/korone.png"
     },
     {
@@ -410,9 +1165,36 @@
       "company": "Hololive　ホロライブ",
       "twitterLink": "https://twitter.com/tsunomakiwatame",
       "youtubeLink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/watame.png"
     },
     {
@@ -424,9 +1206,36 @@
       "company": "Hololive　ホロライブ",
       "twitterLink": "https://twitter.com/akirosenthal",
       "youtubeLink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/akirose.png"
     },
     {
@@ -438,9 +1247,36 @@
       "company": "Hololive　ホロライブ",
       "twitterLink": "https://twitter.com/nakiriayame",
       "youtubeLink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/ayame.png"
     },
     {
@@ -452,9 +1288,36 @@
       "company": "Hololive　ホロライブ",
       "twitterLink": "https://twitter.com/oozorasubaru",
       "youtubeLink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/subaru.png"
     },
     {
@@ -466,9 +1329,36 @@
       "company": "Hololive　ホロライブ",
       "twitterLink": "https://twitter.com/uruharushia",
       "youtubeLink": "https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/rushia.png"
     },
     {
@@ -480,9 +1370,36 @@
       "company": "Hololive　ホロライブ",
       "twitterLink": "https://twitter.com/sakuramiko35",
       "youtubeLink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/miko.png"
     },
     {
@@ -494,9 +1411,36 @@
       "company": "Hololive　ホロライブ",
       "twitterLink": "https://twitter.com/murasakishionch",
       "youtubeLink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/shion.png"
     },
     {
@@ -512,9 +1456,36 @@
       "company": "VOMS",
       "twitterLink": "https://twitter.com/amanopikamee",
       "youtubeLink": "https://www.youtube.com/channel/UCajhBT4nMrg3DLS-bLL2RCg",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/pikamee.png"
     },
     {
@@ -526,9 +1497,36 @@
       "company": "VOMS",
       "twitterLink": "https://twitter.com/Tomoshika_H",
       "youtubeLink": "https://www.youtube.com/channel/UC3vzVK_N_SUVKqbX69L_X4g",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/tomoshika.png"
     },
     {
@@ -544,9 +1542,36 @@
       "company": "Hanayori Girls' Dorm 花寄女子寮",
       "twitterLink": "https://twitter.com/kano_hanayori",
       "youtubeLink": "https://www.youtube.com/channel/UCfuz6xYbYFGsWWBi3SpJI1w",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/kano.png"
     },
     {
@@ -562,9 +1587,36 @@
       "company": "Weapon Girls 武装少女",
       "twitterLink": "https://twitter.com/xprprQchanx",
       "youtubeLink": "https://www.youtube.com/channel/UCMp55EbT_ZlqiMS3lCj01BQ",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/qpi.png"
     },
     {
@@ -580,9 +1632,36 @@
       "company": "ReNOns",
       "twitterLink": "https://twitter.com/Lumi_Amashika",
       "youtubeLink": "https://www.youtube.com/channel/UCg1vXTq8uvD9xTiTT3kvjdw",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/amashika.png"
     },
     {
@@ -598,9 +1677,36 @@
       "company": "　",
       "twitterLink": "https://twitter.com/hirasakamei",
       "youtubeLink": "https://www.youtube.com/channel/UCckQQRZVF9x2GjroBjNIX_Q",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/hirasaka.png"
     },
     {
@@ -612,9 +1718,36 @@
       "company": "　",
       "twitterLink": "https://twitter.com/hakuhakku0",
       "youtubeLink": "https://www.youtube.com/channel/UCGrrfStdPnIR0sOuqux1r5w",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/hakuto.png"
     },
     {
@@ -626,9 +1759,36 @@
       "company": "　",
       "twitterLink": "https://twitter.com/kurisushima_ch",
       "youtubeLink": "https://www.youtube.com/channel/UCvgSH7ZXVYkr2PcJQGmMUIw",
-      "nextScheduledStream": "false",
-      "nextScheduledStreamTime": "false",
-      "pastBroadcasts": "false",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
       "avatarPath": "images/shima.png"
     }
   ]
