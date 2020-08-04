@@ -6,95 +6,18 @@
     },
     {
       "type": "youtuber",
-      "nameRomaji": "Suzuhara Lulu",
-      "nameKana": "すずはらるる",
-      "nameKanji": "鈴原るる",
-      "nicknames": "konruru",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/lulu_suzuhara",
-      "youtubeLink": "https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w",
-      "nextScheduledStream": [
-        "BnXRbccqniA",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "nextScheduledStreamTime": [
-        "1594512000000",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcasts": [
-        "TvNw5dU1npg",
-        "BnXRbccqniA",
-        "s31TI1zmpsY",
-        "tGSawQIta5M"
-      ],
-      "pastBroadcastsTitles": [
-        "【#でびるる】おそろしい爆弾解体【爆弾解除マニュアル】",
-        "【スーパーマリオUSA】リベンジマッチ！！！【鈴原るる/にじさんじ】",
-        "【夜廻】第二夜！！！！【鈴原るる/にじさんじ】",
-        "【夜廻】ホラーゲームやってみるる！！！【鈴原るる/にじさんじ】"
-      ],
-      "avatarPath": "images/lulu.png"
-    },
-    {
-      "type": "youtuber",
-      "nameRomaji": "Inui Toko",
-      "nameKana": "いぬいとこ",
-      "nameKanji": "戌亥とこ",
-      "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/inui_toko",
-      "youtubeLink": "https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg",
-      "nextScheduledStream": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "nextScheduledStreamTime": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcasts": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcastsTitles": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "avatarPath": "images/inui.png"
-    },
-    {
-      "type": "youtuber",
-      "nameRomaji": "Furen E Lustario",
-      "nameKana": "フレン・E・ルスタリオ",
+      "nameRomaji": "Aadya",
+      "nameKana": " ",
       "nameKanji": " ",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/furen_2434",
-      "youtubeLink": "https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji EN",
+      "twitterLink": "https://twitter.com/Aadya_VTuber",
+      "youtubeLink": "https://www.youtube.com/channel/UC_aB_-PHLFHiP61djM0oOiQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -125,58 +48,22 @@
         " ",
         " "
       ],
-      "avatarPath": "images/furen.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+EN/Aadya.png"
     },
     {
       "type": "youtuber",
-      "nameRomaji": "Ritsuki Sakura",
-      "nameKana": "りつきさくら",
-      "nameKanji": "月桜凛",
-      "nicknames": "ritsukin",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/SAKURA_RITSUKI",
-      "youtubeLink": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ",
-      "nextScheduledStream": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "nextScheduledStreamTime": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcasts": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcastsTitles": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "avatarPath": "images/ritsuki.png"
-    },
-    {
-      "type": "youtuber",
-      "nameRomaji": "Yuuki Chihiro",
-      "nameKana": "ゆうきちひろ",
-      "nameKanji": "勇気ちひろ",
+      "nameRomaji": "Aiba Uiha",
+      "nameKana": "あいばういは",
+      "nameKanji": "相羽ういは",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/Chihiro_yuki23",
-      "youtubeLink": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/AibaUiha",
+      "youtubeLink": "https://www.youtube.com/channel/UCnRQYHTnRLSF0cLJwMnedCg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -207,17 +94,22 @@
         " ",
         " "
       ],
-      "avatarPath": "images/chihiro.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Aiba+Uiha.png"
     },
     {
       "type": "youtuber",
-      "nameRomaji": "Sasaki Saku",
-      "nameKana": "ささきさく",
-      "nameKanji": "笹木咲",
+      "nameRomaji": "Aizono Manami",
+      "nameKana": "あいぞのまなみ",
+      "nameKanji": "愛園 愛美",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/saku_sasaki",
-      "youtubeLink": "https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/manami_aizono",
+      "youtubeLink": "https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -248,17 +140,22 @@
         " ",
         " "
       ],
-      "avatarPath": "images/sasaki.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Aizono+Manami.png"
     },
     {
       "type": "youtuber",
-      "nameRomaji": "Ratna Petit",
-      "nameKana": "ラトナ・プティ",
-      "nameKanji": " ",
+      "nameRomaji": "Akabane Youko",
+      "nameKana": "あかばねようこ",
+      "nameKanji": "赤羽葉子",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/ratna_petit",
-      "youtubeLink": "https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Youko_Akabane",
+      "youtubeLink": "https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -289,58 +186,22 @@
         " ",
         " "
       ],
-      "avatarPath": "images/ratna.png"
-    },
-    {
-      "type": "youtuber",
-      "nameRomaji": "Machida Chima",
-      "nameKana": "まちだちま",
-      "nameKanji": "町田ちま",
-      "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/chima_machita23",
-      "youtubeLink": "https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw",
-      "nextScheduledStream": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "nextScheduledStreamTime": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcasts": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcastsTitles": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "avatarPath": "images/machida.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Akabane+Youko.png"
     },
     {
       "type": "youtuber",
       "nameRomaji": "Amamiya Kokoro",
       "nameKana": "あまみやこころ",
-      "nameKanji": "天宮こころ",
+      "nameKanji": "天宮 こころ",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
       "twitterLink": "https://twitter.com/amamiya_kokoro",
       "youtubeLink": "https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -371,17 +232,22 @@
         " ",
         " "
       ],
-      "avatarPath": "images/amamya.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Amamiya+Kokoro.png"
     },
     {
       "type": "youtuber",
-      "nameRomaji": "Shizuka Rin",
-      "nameKana": "しずかりん",
-      "nameKanji": "静凛",
+      "nameRomaji": "Amemori Sayo",
+      "nameKana": "あめもりさよ",
+      "nameKanji": "雨森小夜",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/ShizuRin23",
-      "youtubeLink": "https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Sayo_Amemori",
+      "youtubeLink": "https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -412,58 +278,22 @@
         " ",
         " "
       ],
-      "avatarPath": "images/shizurin.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Amemori+Sayo.png"
     },
     {
       "type": "youtuber",
-      "nameRomaji": "Yuzuki Roa",
-      "nameKana": "ゆずきろあ",
-      "nameKanji": "夢月ロア",
-      "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/yuzuki_roa",
-      "youtubeLink": "https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw",
-      "nextScheduledStream": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "nextScheduledStreamTime": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcasts": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcastsTitles": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "avatarPath": "images/roa.png"
-    },
-    {
-      "type": "youtuber",
-      "nameRomaji": "Elf no Eru",
-      "nameKana": "エルフのえる",
+      "nameRomaji": "Amicia Michella",
+      "nameKana": " ",
       "nameKanji": " ",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/Elu_World",
-      "youtubeLink": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji ID",
+      "twitterLink": "https://twitter.com/AmiciaMichella",
+      "youtubeLink": "https://www.youtube.com/channel/UCrR7JxkbeLY82e8gsj_I0pQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -494,140 +324,22 @@
         " ",
         " "
       ],
-      "avatarPath": "images/eru.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+IN/Amicia+Michella.png"
     },
     {
       "type": "youtuber",
-      "nameRomaji": "Kizuku Yashiro",
-      "nameKana": "きずくやしろ",
-      "nameKanji": "社築",
+      "nameRomaji": "Ange Katrina",
+      "nameKana": "あんじゅ・かとりーな",
+      "nameKanji": "アンジュ・カトリーナ",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/846kizuQ",
-      "youtubeLink": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA",
-      "nextScheduledStream": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "nextScheduledStreamTime": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcasts": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcastsTitles": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "avatarPath": "images/yashiro.png"
-    },
-    {
-      "type": "youtuber",
-      "nameRomaji": "Helesta Lize",
-      "nameKana": "ヘルエスタ・リゼ",
-      "nameKanji": " ",
-      "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/Lize_Helesta",
-      "youtubeLink": "https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w",
-      "nextScheduledStream": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "nextScheduledStreamTime": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcasts": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcastsTitles": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "avatarPath": "images/lize.png"
-    },
-    {
-      "type": "youtuber",
-      "nameRomaji": "Rindou Mikoto",
-      "nameKana": "りんどうみこと",
-      "nameKanji": "竜胆みこと",
-      "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/RindouMikoto",
-      "youtubeLink": "youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A",
-      "nextScheduledStream": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "nextScheduledStreamTime": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcasts": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "pastBroadcastsTitles": [
-        " ",
-        " ",
-        " ",
-        " "
-      ],
-      "avatarPath": "images/mikoto.png"
-    },
-    {
-      "type": "youtuber",
-      "nameRomaji": "Katrina Ange",
-      "nameKana": "カトリーナ・アンジュ",
-      "nameKanji": " ",
-      "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
       "twitterLink": "https://twitter.com/ange_katrina_",
       "youtubeLink": "https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -658,17 +370,344 @@
         " ",
         " "
       ],
-      "avatarPath": "images/ange.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Ange+Katrina.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Ars Almal",
+      "nameKana": "あるす・あるまる",
+      "nameKanji": "アルス・アルマル",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/ars_almal",
+      "youtubeLink": "https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Ars+Almal.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Asuka Hina",
+      "nameKana": "あすかひな",
+      "nameKanji": "飛鳥ひな",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/hina__asuka",
+      "youtubeLink": "https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Asuka+Hina.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Azuchi Momo",
+      "nameKana": "あずちもも",
+      "nameKanji": "安土桃",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/momo_azuchi_",
+      "youtubeLink": "https://www.youtube.com/channel/UC6TfqY40Xt1Y0J-N18c85qQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Azuchi+Momo.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Azura Cecillia",
+      "nameKana": " ",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji ID",
+      "twitterLink": "https://twitter.com/Azura_Cecillia",
+      "youtubeLink": "https://www.youtube.com/channel/UCk5r533QVMgJUdWwqegH2TA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+IN/Azura+Cecillia.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Belmond Banderas",
+      "nameKana": "べるもんど・ばんでらす",
+      "nameKanji": "ベルモンド・バンデラス",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/belmond_b_2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Belmond+Banderas.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Chae Ara",
+      "nameKana": "ちゃえあら",
+      "nameKanji": "채아라",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji KR",
+      "twitterLink": "https://twitter.com/AraChae2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCmWqYB6y8gSfPONWGspuOWQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+KR/Chae+Ara.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Debidebi Debiru",
+      "nameKana": "でびでび・でびる",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/debidebiru_sama",
+      "youtubeLink": "https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Debidebi+Debiru.png"
     },
     {
       "type": "youtuber",
       "nameRomaji": "Dola",
-      "nameKana": "ドーラ",
-      "nameKanji": " ",
+      "nameKana": "どーら",
+      "nameKanji": "ドーラ",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
       "twitterLink": "https://twitter.com/___Dola",
       "youtubeLink": "https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -699,17 +738,22 @@
         " ",
         " "
       ],
-      "avatarPath": "images/dola.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Dola.png"
     },
     {
       "type": "youtuber",
-      "nameRomaji": "Cammie Luis",
-      "nameKana": "キャミー・ルイス",
-      "nameKanji": " ",
+      "nameRomaji": "Eli Conifer",
+      "nameKana": "えりー・こにふぁー",
+      "nameKanji": "エリー・コニファー",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/Luis_Cammy",
-      "youtubeLink": "https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Eli_Conifer",
+      "youtubeLink": "https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -740,7 +784,1019 @@
         " ",
         " "
       ],
-      "avatarPath": "images/luis.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Eli+Conifer.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Elu the Elf",
+      "nameKana": "エルフのえる",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Elu_World",
+      "youtubeLink": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Elu+the+Elf.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Emma Eugust",
+      "nameKana": "えま★おうがすと",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/emma_august_",
+      "youtubeLink": "https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Emma%E2%98%85August.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Ex Albio",
+      "nameKana": "えくす・あるびお",
+      "nameKanji": "エクス・アルビオ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/ex_albio",
+      "youtubeLink": "https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Ex+Albio.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Fumi",
+      "nameKana": "ふみ",
+      "nameKanji": "フミ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/FumiVirtual",
+      "youtubeLink": "https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Fumi.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Fumino Tamaki",
+      "nameKana": "ふみのたまき",
+      "nameKanji": "文野環",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/nekokan_chu",
+      "youtubeLink": "https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Fumino+Tamaki.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Furen E Lustario",
+      "nameKana": "ふれん・E・るすたりお",
+      "nameKanji": "フレン・E・ルスタリオ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/furen_2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Furen+E+Lustario.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Fushimi Gaku",
+      "nameKana": "ふしみがく",
+      "nameKanji": "伏見ガク",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/gaku_fushimi",
+      "youtubeLink": "https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Fushimi+Gaku.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Fuwa Minato",
+      "nameKana": "ふわみなと",
+      "nameKanji": "不破 湊",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Fuwa_Minato",
+      "youtubeLink": "https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Fuwa+Minato.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "GAON",
+      "nameKana": "がおん",
+      "nameKanji": "가온",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji KR",
+      "twitterLink": "https://twitter.com/Gaon2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+KR/Gaon.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Genzuki Tojiro",
+      "nameKana": "げんずきとじろう",
+      "nameKanji": "弦月 藤士郎",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/1O46V",
+      "youtubeLink": "https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Genzuki+Tojiro.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Gilzaren III",
+      "nameKana": "　",
+      "nameKanji": "　",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Gilzaren_III",
+      "youtubeLink": "https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Gilzaren+III.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Gundo Mirei",
+      "nameKana": "ぐんどうみれい",
+      "nameKanji": "郡道美玲",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/g9v9g_mirei",
+      "youtubeLink": "https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Gundo+Mirei.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Gwelu Os Gar",
+      "nameKana": "グウェル・オス・ガール",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Gwelu_os_gar",
+      "youtubeLink": "https://www.youtube.com/channel/UC1QgXt46-GEvtNjEC1paHnw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Gwelu+Os+Gar.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Hakase Fuyuki",
+      "nameKana": "はかせふゆき",
+      "nameKanji": "葉加瀬 冬雪",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Hakase_Fuyuki",
+      "youtubeLink": "https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Hakase+Fuyuki.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Han Chiho",
+      "nameKana": "はんちほ",
+      "nameKanji": "한치호",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji KR",
+      "twitterLink": "https://twitter.com/ChihoHan2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCJ6LH4jMNy0JN9RSThz1mMQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+KR/Han+Chiho.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Hana Macchia",
+      "nameKana": " ",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji ID",
+      "twitterLink": "https://twitter.com/Hana_Macchia",
+      "youtubeLink": "https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+IN/Hana+Macchia.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Hanabatake Chaika",
+      "nameKana": "はなばたけちゃいか",
+      "nameKanji": "花畑チャイカ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/ZulmIhP1nlMOT5y",
+      "youtubeLink": "https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Hanabatake+Chaika.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Harusaki Air",
+      "nameKana": "はるさきえある",
+      "nameKanji": "春崎エアル",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/harusakiair2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Harusaki+Air.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Hayama Marin",
+      "nameKana": "はやままりん",
+      "nameKanji": "葉山舞鈴",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Hayama_Marin",
+      "youtubeLink": "https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Hayama+Marin.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Hayase Sou",
+      "nameKana": "はやせそう",
+      "nameKanji": "早瀬 走",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/SouHayase",
+      "youtubeLink": "https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Hayase+Sou.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Higuchi Kaede",
+      "nameKana": "ひぐちかえで",
+      "nameKanji": "樋口楓",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/HiguchiKaede",
+      "youtubeLink": "https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Higuchi+Kaede.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Honma Himawari",
+      "nameKana": "ほんまひまわり",
+      "nameKanji": "本間ひまわり",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/honmahimawari",
+      "youtubeLink": "https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Honma+Himawari.png"
     },
     {
       "type": "youtuber",
@@ -748,9 +1804,14 @@
       "nameKana": "ほしかわさら",
       "nameKanji": "星川サラ",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
       "twitterLink": "https://twitter.com/Sara_Hoshikawa",
       "youtubeLink": "https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -781,7 +1842,3365 @@
         " ",
         " "
       ],
-      "avatarPath": "images/hoshikawa.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Hoshikawa+Sara.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Ibrahim",
+      "nameKana": "イブラヒム",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/honmono_ibrahim",
+      "youtubeLink": "https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Ibrahim.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Ienaga Mugi",
+      "nameKana": "いえながむぎ",
+      "nameKanji": "家長むぎ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/ienaga_mugi23",
+      "youtubeLink": "https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Ienaga+Mugi.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Inui Toko",
+      "nameKana": "いぬいとこ",
+      "nameKanji": "戌亥とこ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/inui_toko",
+      "youtubeLink": "https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Inui+Toko.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Izumo Kasumi",
+      "nameKana": "いずもかすみ",
+      "nameKanji": "出雲霞",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/ikasumi_zzz",
+      "youtubeLink": "https://www.youtube.com/channel/UCLpYMk5h1bq8_GAFVBgXhPQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Izumo+Kasumi.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Joe Rikiichi",
+      "nameKana": " ",
+      "nameKanji": "ジョー・力一",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/JoeRikiichi",
+      "youtubeLink": "https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Joe+Rikiichi.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kagami Hayato",
+      "nameKana": "かがみはやと",
+      "nameKanji": "加賀美 ハヤト",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/H_KAGAMI2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Kagami+Hayato.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kaida Haru",
+      "nameKana": "かいだはる",
+      "nameKanji": "甲斐田 晴",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Kaida_Haru",
+      "youtubeLink": "https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Kaida+Haru.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kanae",
+      "nameKana": "かなえ",
+      "nameKanji": "叶",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Kanae_2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Kanae.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kataribe Tsumugu",
+      "nameKana": "かたりべつむぐ",
+      "nameKanji": "語部紡",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/KataribeTsumugu",
+      "youtubeLink": "https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Kataribe+Tsumugu.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kenmochi Toya",
+      "nameKana": "けんもちとや",
+      "nameKanji": "剣持刀也",
+      "nicknames": "  ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/rei_Toya_rei",
+      "youtubeLink": "https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Kenmochi+Toya.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kingyozaka Meiro",
+      "nameKana": "きんぎょざかめいろ",
+      "nameKanji": "金魚坂めいろ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/meiro_oO",
+      "youtubeLink": "https://www.youtube.com/channel/UC69URn8iP4u8D_zUp-IJ1sg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Kingyozaka+Meiro.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kuroi Shiba",
+      "nameKana": "くろいしば",
+      "nameKanji": "黒井しば",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/BlackShiba_chan",
+      "youtubeLink": "https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Kuroi+Shiba.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kurusu Natsume",
+      "nameKana": "くるすなつめ",
+      "nameKanji": "来栖 夏芽",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/kurusu72me",
+      "youtubeLink": "https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Kurusu+Natsume.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Kuzuha",
+      "nameKana": "くずは",
+      "nameKanji": "葛葉",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Vamp_Kuzu",
+      "youtubeLink": "https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Kuzuha.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Layla Alstroemeria",
+      "nameKana": " ",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji ID",
+      "twitterLink": "https://twitter.com/LaylaAlstro2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+IN/Layla+Alstroemeria.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Lee Siu",
+      "nameKana": "りいしう",
+      "nameKanji": "이시우",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji KR",
+      "twitterLink": "https://twitter.com/SiuLee2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCSlv7Z-4q7_7NRkzJB10A5Q",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+KR/Lee+Siu.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Levi Elipha",
+      "nameKana": "レヴィ・えりふぁ",
+      "nameKanji": "レヴィ・エリファ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Levi_E_2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Levi+Elipha.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Lize Helesta",
+      "nameKana": "りぜ・へるえすた",
+      "nameKanji": "リゼ・ヘルエスタ",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Lize_Helesta",
+      "youtubeLink": "https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Lize+Helesta.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Luis Cammy",
+      "nameKana": "るいす・きゃみー",
+      "nameKanji": "ルイス・キャミー",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Luis_Cammy",
+      "youtubeLink": "https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Luis+Cammy.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Machita Chima",
+      "nameKana": "まちたちま",
+      "nameKanji": "町田ちま",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/chima_machita23",
+      "youtubeLink": "https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Machita+Chima.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Maimoto Keisuke",
+      "nameKana": "まいもとけいすけ",
+      "nameKanji": "舞元啓介",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/maimoto_k",
+      "youtubeLink": "https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Maimoto+Keisuke.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Makaino Ririmu",
+      "nameKana": "まかいのりりむ",
+      "nameKanji": "魔界ノりりむ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/makaino_ririmu",
+      "youtubeLink": "https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Makaino+Ririmu.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Mashiro",
+      "nameKana": "ましろ",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/mashiro2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCfki3lMEF6SGBFiFfo9kvUA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Mashiro.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Matsukai Mao",
+      "nameKana": "まつかいまお",
+      "nameKanji": "魔使マオ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/matsukai_mao",
+      "youtubeLink": "https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg/",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Matsukai+Mao.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Mayuzumi Kai",
+      "nameKana": "まゆずみかい",
+      "nameKanji": "黛灰",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/mayuzumi_X",
+      "youtubeLink": "https://www.youtube.com/channel/UCb5JxV6vKlYVknoJB8TnyYg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Mayuzumi+Kai.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Melissa Kinrenka",
+      "nameKana": "めりっさ・きんれんか",
+      "nameKanji": "メリッサ・キンレンカ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/melissa_2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Melissa+Kinrenka.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Min Suha",
+      "nameKana": "みんすは",
+      "nameKanji": "민수하",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji KR",
+      "twitterLink": "https://twitter.com/SuhaMin2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+KR/Min+Suha.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Miyu Ottavia",
+      "nameKana": " ",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji ID",
+      "twitterLink": "https://twitter.com/MiyuOttavia",
+      "youtubeLink": "https://www.youtube.com/channel/UCOmjciHZ8Au3iKMElKXCF_g",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+IN/Miyu+Ottavia.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Mononobe Alice",
+      "nameKana": "もののべありす",
+      "nameKanji": "物述有栖",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/AliceMononobe",
+      "youtubeLink": "https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Mononobe+Alice.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Morinaka Kazaki",
+      "nameKana": "もりなかかざき",
+      "nameKanji": "森中花咲",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "tps://twitter.com/KazakiMorinaka",
+      "youtubeLink": "https://www.youtube.com/channel/UCtpB6Bvhs1Um93ziEDACQ8g",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Morinaka+Kazaki.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Nagao Kei",
+      "nameKana": "ながおけい",
+      "nameKanji": "長尾 景",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/kei_nagao2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Nagao+Kei.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Nara Haramaung",
+      "nameKana": " ",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji ID",
+      "twitterLink": "https://twitter.com/Nara_Haramaung",
+      "youtubeLink": "https://www.youtube.com/channel/UCoWH3sDpeXG1aXmOxveX4KA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+IN/Nara+Haramaung.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Naraka",
+      "nameKana": "ならか",
+      "nameKanji": "奈羅花",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Naraka_2434",
+      "youtubeLink": "https://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Naraka.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Naruse Naru",
+      "nameKana": "なるせなる",
+      "nameKanji": "成瀬 鳴",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/narusenaru_2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCoM_XmK45j504hfUWvN06Qg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Naruse+Naru.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Noor",
+      "nameKana": " ",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji EN",
+      "twitterLink": "https://twitter.com/Noor_VTuber",
+      "youtubeLink": "https://www.youtube.com/channel/UC6oW4FXETgEGOFTxWmI2h5Q",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+EN/Noor.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Nui Sociere",
+      "nameKana": "にゅい・そしえーり",
+      "nameKanji": "ニュイ・ソシエール",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Nui_Sociere",
+      "youtubeLink": "https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Nui+Sociere.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Onomachi Haruka",
+      "nameKana": "おのまちはるか",
+      "nameKanji": "小野町春香",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/onomachi_haruka",
+      "youtubeLink": "https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Onomachi+Haruka.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Otogibara Era",
+      "nameKana": "おとぎばらえら",
+      "nameKanji": "御伽原 江良",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/OtogibaraEra",
+      "youtubeLink": "https://www.youtube.com/channel/UCwQ9Uv-m8xkE5PzRc7Bqx3Q",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Otogibara+Era.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Ratna Petit",
+      "nameKana": "らとな・ぷてぃ",
+      "nameKanji": "ラトナ・プティ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/ratna_petit",
+      "youtubeLink": "https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Ratna+Petit.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Rei Galilei",
+      "nameKana": " ",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji ID",
+      "twitterLink": "https://twitter.com/Rai_Galilei",
+      "youtubeLink": "https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+IN/Rei+Galilei.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Riksa Dhirendra",
+      "nameKana": " ",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji ID",
+      "twitterLink": "https://twitter.com/RiksaDhirendra",
+      "youtubeLink": "https://www.youtube.com/channel/UCkL9OLKjIQbKk2CztbpOCFg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+IN/Riksa+Dhirendra.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Rindou Mikoto",
+      "nameKana": "りんどうみこと",
+      "nameKanji": "竜胆 尊",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/RindouMikoto",
+      "youtubeLink": "https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Rindou+Mikoto.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Ryushen",
+      "nameKana": "りゅしぇん",
+      "nameKanji": "緑仙",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/midori_2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Ryushen.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Saegusa Akina",
+      "nameKana": "さえぐさあきな",
+      "nameKanji": "三枝明那",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/333akina",
+      "youtubeLink": "https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Saegusa+Akina.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Sakura Ritsuki",
+      "nameKana": "さくらりつき",
+      "nameKanji": "桜凛月",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/SAKURA_RITSUKI",
+      "youtubeLink": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Sakura+Ritsuki.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Sasaki Saku",
+      "nameKana": "ささきさく",
+      "nameKanji": "笹木咲 ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/saku_sasaki",
+      "youtubeLink": "https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Sasaki+Saku.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Seto Miyako",
+      "nameKana": "せとみやこ",
+      "nameKanji": "瀬戸 美夜子",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/seto_miyako",
+      "youtubeLink": "https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Seto+Miyako.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Shellin Burgundy",
+      "nameKana": "しぇりん・ばーがんでぃ",
+      "nameKanji": "シェリン・バーガンディ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/ShellinBurgundy",
+      "youtubeLink": "https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Shellin+Burgundy.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Shiina Yuika",
+      "nameKana": "しいなゆいか",
+      "nameKanji": "椎名唯華",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/yuika_siina",
+      "youtubeLink": "https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Shiina+Yuika.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Shin Yuya",
+      "nameKana": "しんゆや",
+      "nameKanji": "신유야",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji KR",
+      "twitterLink": "https://twitter.com/YuyaShin2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCjGE11ZnF0JSR8egVAwh-3A",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+KR/Shin+Yuya.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Shirayuki Tomoe",
+      "nameKana": "しらゆきともえ",
+      "nameKanji": "白雪 巴",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Tomoe_Shirayuki",
+      "youtubeLink": "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Shirayuki+Tomoe.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Shizuka Rin",
+      "nameKana": "しずかりん",
+      "nameKanji": "静凛",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/ShizuRin23",
+      "youtubeLink": "https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Shizuka+Rin.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Sibuya Hajime",
+      "nameKana": "しぶやはじめ",
+      "nameKanji": "渋谷ハジメ",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/sibuya_hajime",
+      "youtubeLink": "https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Sibuya+Hajime.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Sister Cleaire",
+      "nameKana": "しすたーくれあ",
+      "nameKanji": "シスター・クレア",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/SisterCleaire",
+      "youtubeLink": "https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Sister+Cleaire.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "So Nagi",
+      "nameKana": "そなぎ",
+      "nameKanji": "소나기",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji KR",
+      "twitterLink": "https://twitter.com/NagiSo2434",
+      "youtubeLink": "https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+KR/So+Nagi.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Sorahoshi Kirame",
+      "nameKana": "そらほしきらめ",
+      "nameKanji": "空星きらめ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/kirame_2434",
+      "youtubeLink": "https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Sorahoshi+Kirame.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Sukoya Kana",
+      "nameKana": "すこやかな",
+      "nameKanji": "健屋花那",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/sukosuko_sukoya",
+      "youtubeLink": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Sukoya+Kana.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Suzuhara Lulu",
+      "nameKana": "すずはらるる",
+      "nameKanji": "鈴原るる",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/lulu_suzuhara",
+      "youtubeLink": "https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Suzuhara+Lulu.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Suzuka Utako",
+      "nameKana": "すずかうたこ",
+      "nameKanji": "鈴鹿詩子",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/suzukautako",
+      "youtubeLink": "https://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Suzuka+Utako.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Suzuki Masaru",
+      "nameKana": "すずきまさる",
+      "nameKanji": "鈴木勝",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/darkness_eater",
+      "youtubeLink": "https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Suzuki+Masaru.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Suzuya Aki",
+      "nameKana": "すずやあき",
+      "nameKanji": "鈴谷アキ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/aki_suzuya",
+      "youtubeLink": "https://www.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Suzuya+Aki.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Taka Radjiman",
+      "nameKana": " ",
+      "nameKanji": " ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji ID",
+      "twitterLink": "https://twitter.com/Taka_Radjiman",
+      "youtubeLink": "https://www.youtube.com/channel/UCZ5dNZsqBjBzbBl0l_IdmXg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+IN/Taka+Radjiman.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Takamiya Rion",
+      "nameKana": "たかみやりおん",
+      "nameKanji": "鷹宮リオン",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/TakamiyaRion",
+      "youtubeLink": "https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Takamiya+Rion.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Todoroki Kyoko",
+      "nameKana": "とどろききょこ",
+      "nameKanji": "轟京子",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/KT_seeds",
+      "youtubeLink": "https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Todoroki+Kyoko.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Tsukino Mito",
+      "nameKana": "つきのみと",
+      "nameKanji": "月ノ美兎",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/MitoTsukino",
+      "youtubeLink": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Tsukino+Mito.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Ushimi Ichigo",
+      "nameKana": "うしみいちご",
+      "nameKanji": "宇志海いちご",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/ushimi_ichigo",
+      "youtubeLink": "https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Ushimi+Ichigo.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Uzuki Kou",
+      "nameKana": "うずきこう",
+      "nameKanji": "卯月コウ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/udukikohh",
+      "youtubeLink": "https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Uzuki+Kou.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Vihaan",
+      "nameKana": "　",
+      "nameKanji": "　",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji EN",
+      "twitterLink": "https://twitter.com/Vihaan_VTuber",
+      "youtubeLink": "https://www.youtube.com/channel/UC0lik9pHju6ONgkBh7N5wHw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+EN/Vihaan.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Warabeda Meiji",
+      "nameKana": "わらべだめいじ",
+      "nameKanji": "童田明治",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/warabeda_meiji",
+      "youtubeLink": "https://www.youtube.com/channel/UCveZ9Ic1VtcXbsyaBgxPMvg",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Warabeda+Meiji.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Wiffy",
+      "nameKana": "ヴィフィ",
+      "nameKanji": "위피",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji KR",
+      "twitterLink": "https://twitter.com/Wiffy2434",
+      "youtubeLink": "https://www.youtube.com/channel/UCzMAP-oh5-pC8j6RlCPf26w",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+KR/Wiffy.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Yaguruma Rine",
+      "nameKana": "やぐるまりね",
+      "nameKanji": "矢車りね",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Rine_Yaguruma",
+      "youtubeLink": "https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Yaguruma+Rine.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Yamagami Karuta",
+      "nameKana": "やまがみかるた",
+      "nameKanji": "山神 カルタ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Karuta_Yamagami",
+      "youtubeLink": "https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Yamagami+Karuta.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Yashiro Kizuku",
+      "nameKana": "やしろきずく",
+      "nameKanji": "社築",
+      "nicknames": "　",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/846kizuQ",
+      "youtubeLink": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Yashiro+Kizuku.png"
     },
     {
       "type": "youtuber",
@@ -789,9 +5208,14 @@
       "nameKana": "よるみれな",
       "nameKanji": "夜見れな",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
       "twitterLink": "https://twitter.com/rena_yorumi",
       "youtubeLink": "https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -822,17 +5246,22 @@
         " ",
         " "
       ],
-      "avatarPath": "images/yorumi.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Yorumi+Rena.png"
     },
     {
       "type": "youtuber",
-      "nameRomaji": "Kinrenka Melissa",
-      "nameKana": "キンレンカ・メリッサ",
-      "nameKanji": "夜見れカ",
+      "nameRomaji": "Yukishiro Mahiro",
+      "nameKana": "ゆきしろまひろ",
+      "nameKanji": "雪城眞尋",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/melissa_2434",
-      "youtubeLink": "https://www.youtube.com/channel/UCwcyyxn6h9ex4sMXGtpQE_g",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/MahiroYukishiro",
+      "youtubeLink": "https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -863,17 +5292,22 @@
         " ",
         " "
       ],
-      "avatarPath": "images/melissa.png"
+      "avatarPath": "ttps://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Yukishiro+Mahiro.png"
     },
     {
       "type": "youtuber",
-      "nameRomaji": "Ex Albio",
-      "nameKana": "エクス・アルビオ",
-      "nameKanji": "　",
-      "nicknames": "Ebio",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/Ex_Albio",
-      "youtubeLink": "https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ",
+      "nameRomaji": "Yumeoi Kakeru",
+      "nameKana": "ゆめおいかける",
+      "nameKanji": "夢追翔",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/kakeru_yumeoi",
+      "youtubeLink": "https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -904,17 +5338,160 @@
         " ",
         " "
       ],
-      "avatarPath": "images/albio.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Yumeoi+Kakeru.png"
     },
     {
       "type": "youtuber",
-      "nameRomaji": "So Nagi",
+      "nameRomaji": "Yuuhi Riri",
+      "nameKana": "ゆうひりり",
+      "nameKanji": "夕陽リリ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Yuuhi_Riri",
+      "youtubeLink": "https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Yuuhi+Riri.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Yuuki Chihiro",
+      "nameKana": "ゆうきちひろ",
+      "nameKanji": "勇気ちひろ",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/Chihiro_yuki23",
+      "youtubeLink": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Yuuki+Chihiro.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "Yuzuki Roa",
+      "nameKana": "ゆずきろあ",
+      "nameKanji": "夢月ロア",
+      "nicknames": " ",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji JP",
+      "twitterLink": "https://twitter.com/yuzuki_roa",
+      "youtubeLink": "https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
+      "nextScheduledStream": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "nextScheduledStreamTime": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcasts": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "pastBroadcastsTitles": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji/Yuzuki+Roa.png"
+    },
+    {
+      "type": "youtuber",
+      "nameRomaji": "ZEA Cornellia",
       "nameKana": " ",
-      "nameKanji": "나기소",
+      "nameKanji": " ",
       "nicknames": " ",
-      "company": "Nijisanji にじさんじ",
-      "twitterLink": "https://twitter.com/NagiSo2434",
-      "youtubeLink": "https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw",
+      "company": "Nijisanji",
+      "subgroup": "Nijisanji ID",
+      "twitterLink": "https://twitter.com/ZEA_Cornelia",
+      "youtubeLink": "https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw",
+      "currentStream": " ",
+      "currentStreamTime": " ",
+      "isLive": "false",
+      "liveBefore": "false ",
       "nextScheduledStream": [
         " ",
         " ",
@@ -945,7 +5522,7 @@
         " ",
         " "
       ],
-      "avatarPath": "images/nagi.png"
+      "avatarPath": "https://vtuberthumbnails.s3-us-west-1.amazonaws.com/Vtuber+Thumbnails/Nijisanji+IN/ZEA+Cornellia.png"
     },
     {
       "type": "Company",
